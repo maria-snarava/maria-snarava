@@ -16,12 +16,12 @@ __________________________________________
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 __________________________________________
 :nerd_face: **I’m currently studying Data Science and Machine Learning:** [^1] [^2]
+
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=numpy)
-__________________________________________
-[Github Stats](https://github-readme-stats.vercel.app/api?username=maria-snarava&count_private=true&show_icons=true&include_all_commits=true)
-[^1]: I keep my DS & ML pet-projects here [here]([https://pages.github.com/](https://github.com/maria-snarava/data-science-study)
+![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sql)
+[^1]: I keep my DS & ML pet-projects here [here](https://pages.github.com/](https://github.com/maria-snarava/data-science-study).
 [^2]: Also, you can find my study projects [here](https://github.com/maria-snarava/portfolio-ml).
 
 
