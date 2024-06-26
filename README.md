@@ -21,8 +21,8 @@ __________________________________________
 ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=numpy)
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sql)
-[^1]: I keep my DS & ML pet-projects here [here](https://github.com/maria-snarava/data-science-study).
-[^2]: Also, you can find my study projects [here](https://github.com/maria-snarava/portfolio-ml).
+[^1]: I keep my DS & ML pet-projects here [here](https://github.com/maria-snarava/portfolio-ml).
+[^2]: Also, you can find my study projects [here](https://github.com/maria-snarava/data-science-study).
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=maria-snarava.maria-snarava)
