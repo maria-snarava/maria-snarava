@@ -1,12 +1,7 @@
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 ### Hi there 👋! Welcome to my page!
-My name is Maryia Snarava and I'm a Backend developer with 6+ years of experience in E-commerce. I am from Minsk, Belarus, but right now I live in Krakow Kraków, Poland.
+My name is Maryia Snarava and I'm a Backend developer with 6+ years of experience in E-commerce. I am from Minsk, Belarus, but right now I live in Krakow Kraków, Poland.[^1]
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="maryia-snarava" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pl.linkedin.com/in/maryia-snarava?trk=profile-badge">Maryia Snarava</a></div>
-
-[![Gmail Badge](https://img.shields.io/badge/-snaravam@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snaravam@gmail.com)](mailto:snaravam@gmail.com)
-
-### 🔭 Technologies
+### :sunglasses: **Technologies**
 ![PHP](https://img.shields.io/badge/-Php-white?style=flat-square&logo=php)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -19,15 +14,17 @@ My name is Maryia Snarava and I'm a Backend developer with 6+ years of experienc
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
-###🔭 I’m currently studying Data Science and Machine Learning: 
+:nerd_face: **I’m currently studying Data Science and Machine Learning:** [^2]
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=numpy)
 
-###I keep my DS & ML pet-projects here [here]([https://pages.github.com/](https://github.com/maria-snarava/data-science-study))
-###Also, you can find my study projects [here](https://github.com/maria-snarava/portfolio-ml).
-
-
 <!--![Github Stats](https://github-readme-stats.vercel.app/api?username=maria-snarava&count_private=true&show_icons=true&include_all_commits=true)-->
+
+[^1]: The best way to contact me is by email:[![Gmail Badge](https://img.shields.io/badge/-snaravam@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snaravam@gmail.com)](mailto:snaravam@gmail.com)
+
+[^2]: I keep my DS & ML pet-projects here [here]([https://pages.github.com/](https://github.com/maria-snarava/data-science-study))
+Also, you can find my study projects [here](https://github.com/maria-snarava/portfolio-ml).
+
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=maria-snarava.maria-snarava)
