@@ -1,5 +1,5 @@
 ### Hi there 👋! Welcome to my page!
-My name is Maryia Snarava and I'm a Backend developer with 6+ years of experience in E-commerce. I am from Minsk, Belarus, but right now I live in Krakow Kraków, Poland. The best way to contact me is by email:[![Gmail Badge](https://img.shields.io/badge/-snaravam@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snaravam@gmail.com)](mailto:snaravam@gmail.com)
+My name is Maryia Snarava and I'm a Backend developer with 6+ years of experience in E-commerce. I am from Minsk, Belarus, but right now I live in Krakow Kraków, Poland. The best way to contact me is by email: [![Gmail Badge](https://img.shields.io/badge/-snaravam@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snaravam@gmail.com)](mailto:snaravam@gmail.com)
 __________________________________________
 ### :sunglasses: **Technologies**
 ![PHP](https://img.shields.io/badge/-Php-white?style=flat-square&logo=php)
@@ -20,8 +20,8 @@ __________________________________________
 ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=numpy)
 __________________________________________
-<!--![Github Stats](https://github-readme-stats.vercel.app/api?username=maria-snarava&count_private=true&show_icons=true&include_all_commits=true)-->
-[^1]: I keep my DS & ML pet-projects here [here]([https://pages.github.com/](https://github.com/maria-snarava/data-science-study))
+[Github Stats](https://github-readme-stats.vercel.app/api?username=maria-snarava&count_private=true&show_icons=true&include_all_commits=true)
+[^1]: I keep my DS & ML pet-projects here [here]([https://pages.github.com/](https://github.com/maria-snarava/data-science-study)
 [^2]: Also, you can find my study projects [here](https://github.com/maria-snarava/portfolio-ml).
 
 
