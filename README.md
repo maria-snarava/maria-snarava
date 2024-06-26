@@ -9,6 +9,7 @@ __________________________________________
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
 ![Postmap](https://img.shields.io/badge/-Postman-FCA121?style=flat-square&logo=postman)
+
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![!Magento](https://img.shields.io/badge/-Magento-black?style=flat-square&logo=magento)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
