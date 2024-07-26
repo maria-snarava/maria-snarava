@@ -3,14 +3,13 @@ My name is Maryia Snarava and I'm a Backend developer with 6+ years of experienc
 __________________________________________
 ### :sunglasses: **Technologies**
 ![PHP](https://img.shields.io/badge/-Php-white?style=flat-square&logo=php)
-![Zend](https://img.shields.io/badge/-Zend-black?style=flat-square&logo=zend)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
 ![!Magento](https://img.shields.io/badge/-Magento-black?style=flat-square&logo=magento)
 
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
+![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=graphql)
 ![JSON](https://img.shields.io/badge/-Json-black?style=flat-square&logo=Json)
 ![Postmap](https://img.shields.io/badge/-Postman-FCA121?style=flat-square&logo=postman)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
@@ -23,7 +22,7 @@ __________________________________________
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=numpy)
-![Scikit-learn](https://img.shields.io/badge/-Scikitlearn-E10098?style=flat-square&logo=Scikitlearn)
+![Scikit-learn](https://img.shields.io/badge/-Scikitlearn-black?style=flat-square&logo=Scikitlearn)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=TensorFlow)
 ![Keras](https://img.shields.io/badge/-Keras-black?style=flat-square&logo=Keras)
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sql)
