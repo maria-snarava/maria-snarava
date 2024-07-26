@@ -24,8 +24,8 @@ __________________________________________
 ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=numpy)
 ![Scikit-learn](https://img.shields.io/badge/-Scikitlearn-E10098?style=flat-square&logo=Scikitlearn)
-![TensorFlow](https://img.shields.io/badge/-tensorflow-black?style=flat-square&logo=tensorflow)
-![Keras](https://img.shields.io/badge/-keras-black?style=flat-square&logo=keras)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=TensorFlow)
+![Keras](https://img.shields.io/badge/-Keras-black?style=flat-square&logo=Keras)
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sql)
 [^1]: I keep my DS & ML pet-projects here [here](https://github.com/maria-snarava/portfolio-ml).
 [^2]: Also, you can find my study projects [here](https://github.com/maria-snarava/machine-learning-study).
