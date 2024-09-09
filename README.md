@@ -26,8 +26,10 @@ __________________________________________
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=TensorFlow)
 ![Keras](https://img.shields.io/badge/-Keras-black?style=flat-square&logo=Keras)
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sql)
+![Streamlit](https://img.shields.io/badge/-Streamlit-black?style=flat-square&logo=Streamlit)
 [^1]: I keep my DS & ML pet-projects here [here](https://github.com/maria-snarava/portfolio-ml).
 [^2]: Also, you can find my study projects [here](https://github.com/maria-snarava/machine-learning-study).
 
+My last project: [Sentimental analysis of Tweets about major NASDAQ-listed companies in 2019 year](https://dashboard-tweets-analysis.streamlit.app/)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=maria-snarava.maria-snarava)
